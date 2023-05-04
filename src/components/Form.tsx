@@ -33,7 +33,7 @@ export const Form = () => {
             />
             <button 
             type="submit" onClick={ (e) => handleFormSubmit(e)}>
-            Send form=""
+            Send form
             </button >
             </form>
         </>
